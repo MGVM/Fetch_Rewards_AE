@@ -33,7 +33,7 @@ This document outlines the **OLTP Data Model** design, its structure, relationsh
   - `points_earned`: Total points earned from the receipt.
   - `purchase_date`: Date of the transaction.
   - `purchased_item_count`: Number of items purchased.
-  - `rewards_receipt_status`: Status of the receipt (e.g., Accepted, Rejected).
+  - `rewards_receipt_status`: Status of the receipt (e.g., Finished, Rejected).
   - `total_spent`: Total amount spent on the receipt.
 
 ---
