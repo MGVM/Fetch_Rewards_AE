@@ -5,7 +5,7 @@ This folder contains the data models for:
 - **Transactional Database (OLTP)**: Includes the schema design for efficient day-to-day operations with detailed documentation.
 - **Analytical Database (OLAP)**: A star schema optimized for reporting and analytical queries. The folder includes explanations on how the schema addresses business questions effectively.
 
-[Data Model Folder](https://github.com/MGVM/Fetch_Rewards_AE/Data_Model)
+[Data Model Folder](Data_Models)
 
 ---
 
