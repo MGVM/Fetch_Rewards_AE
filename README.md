@@ -61,7 +61,7 @@ To replicate the analysis:
    pip install pandas numpy matplotlib seaborn
    ```
 
-3. **## **Python Libraries**
+3. **Python Libraries**
    - **pandas**: Used for data manipulation and analysis, including handling missing values, transforming data, and generating summary statistics.
    
    - **numpy**: Provides support for numerical operations and handling arrays, aiding in efficient computation.
