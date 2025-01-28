@@ -69,6 +69,7 @@ To replicate the analysis:
    - **matplotlib**: A powerful library for creating static, animated, and interactive visualizations.
    
    - **seaborn**: Built on top of matplotlib, seaborn is used for creating attractive and informative statistical graphics.
-   
+
+---
 
 This repository provides a comprehensive approach to analyzing, modeling, and querying data to solve business problems effectively. Please explore the respective sections for detailed insights.
